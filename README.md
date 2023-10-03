@@ -1,5 +1,7 @@
 # Headless UI - Accessible React Components Library
 
+![Headless UI Logo](https://repository-images.githubusercontent.com/295992065/4bd52200-0043-11eb-9711-359a3854d4dc)
+
 Headless UI is a comprehensive collection of accessible and reusable React components that enable you to create highly customizable and usable user interfaces. The components are designed with accessibility and customization in mind, providing a solid foundation for building accessible web applications.
 
 ## Features
